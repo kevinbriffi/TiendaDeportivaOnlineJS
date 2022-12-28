@@ -1,0 +1,118 @@
+[{
+    "id": 1,
+    "tipo": "bolso",
+    "nombre": "Bolso mujer Puma",
+    "precio": 14950,
+    "foto": "../media/products/product-1.jpeg"
+}, {
+    "id": 2,
+    "tipo": "Calza mujer",
+    "nombre": "Calza mujer deportiva estampada",
+    "precio": 3200,
+    "foto": "../media/products/product-2.jpeg"
+}, {
+    "id": 3,
+    "tipo": "Calza mujer",
+    "nombre": "Calza mujer deportiva negra",
+    "precio": 3200,
+    "foto": "../media/products/product-3.jpeg"
+}, {
+    "id": 4,
+    "tipo": "Calza mujer",
+    "nombre": "Calza mujer deportiva rosa",
+    "precio": 3200,
+    "foto": "../media/products/product-4.jpeg"
+}, {
+    "id": 5,
+    "tipo": "Calza mujer",
+    "nombre": "Calza mujer deportiva azul",
+    "precio": 3200,
+    "foto": "../media/products/product-5.jpeg"
+}, {
+    "id": 6,
+    "tipo": "Calza mujer",
+    "nombre": "Calza mujer deportiva gris",
+    "precio": 3000,
+    "foto": "../media/products/product-6.jpeg"
+}, {
+    "id": 7,
+    "tipo": "Calza mujer",
+    "nombre": "Calza mujer deportiva blanca",
+    "precio": 3000,
+    "foto": "../media/products/product-7.jpeg"
+}, {
+    "id": 8,
+    "tipo": "Conjunto hombre",
+    "nombre": "Conjunto Hombre deportivo negro",
+    "precio": 5000,
+    "foto": "../media/products/product-8.jpeg"
+},
+{
+    "id": 9,
+    "tipo": "Conjunto mujer",
+    "nombre": "Conjunto mujer deportivo lycra",
+    "precio": 5000,
+    "foto": "../media/products/product-9.jpeg"
+},
+{
+    "id": 10,
+    "tipo": "Pantalon deportivo",
+    "nombre": "Pantalon deportivo Nike varios colores",
+    "precio": 4500,
+    "foto": "../media/products/product-10.jpeg"
+}, {
+    "id": 11,
+    "tipo": "Ojotas",
+    "nombre": "Ojotas Adidas clasicas",
+    "precio": 7890,
+    "foto": "../media/products/product-11.jpeg"
+}, {
+    "id": 12,
+    "tipo": "Ojotas",
+    "nombre": "Ojotas Adidas clasicas blancas",
+    "precio": 7890,
+    "foto": "../media/products/product-12.jpeg"
+}, {
+    "id": 13,
+    "tipo": "Short",
+    "nombre": "Short hombre negro",
+    "precio": 3500,
+    "foto": "../media/products/product-13.jpeg"
+}, {
+    "id": 14,
+    "tipo": "Top",
+    "nombre": "Top deportivo mujer Puma varios colores",
+    "precio": 2990,
+    "foto": "../media/products/product-14.jpeg"
+}, {
+    "id": 15,
+    "tipo": "Remera hombre",
+    "nombre": "Remera urbana hombre negra",
+    "precio": 3990,
+    "foto": "../media/products/product-15.jpeg"
+}, {
+    "id": 16,
+    "tipo": "Remera hombre",
+    "nombre": "Remera urbana hombre blanca",
+    "precio": 3990,
+    "foto": "../media/products/product-16.jpeg"
+}, {
+    "id": 17,
+    "tipo": "Remera hombre",
+    "nombre": "Remera deportiva hombre",
+    "precio": 2990,
+    "foto": "../media/products/product-17.jpeg"
+}, {
+    "id": 18,
+    "tipo": "Remera hombre",
+    "nombre": "Remera deportiva hombre Puma",
+    "precio": 2990,
+    "foto": "../media/products/product-18.jpeg"
+}, {
+    "id": 19,
+    "tipo": "Conjunto",
+    "nombre": "Conjunto Adidas estampado hombre",
+    "precio": 5990,
+    "foto": "../media/products/product-19.jpeg"
+}
+]
